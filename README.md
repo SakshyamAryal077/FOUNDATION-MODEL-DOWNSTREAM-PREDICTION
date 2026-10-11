@@ -1,0 +1,2 @@
+# FOUNDATION-MODEL-DOWNSTREAM-PREDICTION
+Strategic Finetuning of ECG FM on  ACS 19555 Dataset 
